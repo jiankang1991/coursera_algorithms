@@ -46,7 +46,9 @@ should be higher as the list is more "out of order".
 ![alt text](./pic/Selection_032.png)
 
 
+## Strassen's Subcubic Matrix Multiplication Algorithm
 
+![alt text](./pic/Selection_033.png)
 
 
 
