@@ -52,8 +52,11 @@ should be higher as the list is more "out of order".
 
 
 
+## The master method for asymptotic analysis of divide and conquer algorithms
 
+![alt text](./pic/Selection_034.png)
 
+![alt text](./pic/Selection_035.png)
 
 
 
