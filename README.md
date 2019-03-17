@@ -79,11 +79,18 @@ should be higher as the list is more "out of order".
 
 Utilized linearity of Expectation and decomposition principle
 
+Rule of thumb for checking independene of random variables:
+
+So, for those of you without much practice with independence, here's my rule of thumb for whether or not you treat random variables as independent. If things are independent by construction, like, for example, you define it in your algorithm, so the two different things are independent. Then you can proceed with the analysis under the assumption that they're independent. If there's any doubt, if it's not obvious the two things are independent, you might want to, as a rule of thumb, assume that they're dependent until further notice. 
+
+![alt text](./pic/Selection_052.png)
+
 ![alt text](./pic/Selection_051.png)
 
 ![alt text](./pic/Selection_045.png)
 
 A good exercise is the birthday problem with the solution in [Introduction of Algorithms](https://books.google.de/books?id=NLngYyWFl_YC&pg=PA106&lpg=PA106&dq=birthday+problem+introduction+to+algorithms&source=bl&ots=BzSoIz0kHa&sig=ACfU3U177Hw1_m4xZFxmfM6JMoSxLSoNaA&hl=en&sa=X&ved=2ahUKEwjIr5Du4YjhAhUPy6YKHadKCtAQ6AEwBXoECAkQAQ#v=onepage&q=birthday%20problem%20introduction%20to%20algorithms&f=false)
+
 
 ### Asymptotic analysis and proof
 
