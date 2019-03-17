@@ -4,6 +4,7 @@
 
 [Coursera algorithms](https://www.coursera.org/learn/algorithms-divide-conquer/lecture/NtFU9/merge-sort-pseudocode)
 
+Python 3 version
 
 ## Karatsuba Multiplication
 
@@ -59,7 +60,47 @@ should be higher as the list is more "out of order".
 ![alt text](./pic/Selection_035.png)
 
 
+## QuickSort 
+
+### implementation
 
 
+![alt text](./pic/Selection_037.png)
 
+![alt text](./pic/Selection_040.png)
+
+### Example
+
+![alt text](./pic/Selection_038.png)
+
+![alt text](./pic/Selection_039.png)
+
+### Background knowledge
+
+Utilized linearity of Expectation and decomposition principle
+
+![alt text](./pic/Selection_051.png)
+
+![alt text](./pic/Selection_045.png)
+
+A good exercise is the birthday problem with the solution in [Introduction of Algorithms](https://books.google.de/books?id=NLngYyWFl_YC&pg=PA106&lpg=PA106&dq=birthday+problem+introduction+to+algorithms&source=bl&ots=BzSoIz0kHa&sig=ACfU3U177Hw1_m4xZFxmfM6JMoSxLSoNaA&hl=en&sa=X&ved=2ahUKEwjIr5Du4YjhAhUPy6YKHadKCtAQ6AEwBXoECAkQAQ#v=onepage&q=birthday%20problem%20introduction%20to%20algorithms&f=false)
+
+### Asymptotic analysis and proof
+
+![alt text](./pic/Selection_041.png)
+
+![alt text](./pic/Selection_042.png)
+
+![alt text](./pic/Selection_043.png)
+
+![alt text](./pic/Selection_044.png)
+
+
+![alt text](./pic/Selection_046.png)
+
+![alt text](./pic/Selection_047.png)
+
+![alt text](./pic/Selection_048.png)
+
+![alt text](./pic/Selection_049.png)
 
