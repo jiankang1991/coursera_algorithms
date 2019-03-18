@@ -111,3 +111,14 @@ A good exercise is the birthday problem with the solution in [Introduction of Al
 
 ![alt text](./pic/Selection_049.png)
 
+## Karger Min-cut algorithm
+
+
+![alt text](./pic/Selection_054.png)
+
+![alt text](./pic/Selection_055.png)
+
+![alt text](./pic/Selection_056.png)
+
+
+
