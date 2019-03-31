@@ -121,4 +121,25 @@ A good exercise is the birthday problem with the solution in [Introduction of Al
 ![alt text](./pic/Selection_056.png)
 
 
+## Graph Search
+
+### BFS
+
+![alt text](./pic/Selection_062.png)
+
+![alt text](./pic/Selection_063.png)
+
+### DFS
+
+![alt text](./pic/Selection_064.png)
+
+#### Strongly Connected Components of direct graph
+
+![alt text](./pic/Selection_066.png)
+
+![alt text](./pic/Selection_067.png)
+
+![alt text](./pic/Selection_068.png)
+
+![alt text](./pic/Selection_065.png)
 
