@@ -143,3 +143,19 @@ A good exercise is the birthday problem with the solution in [Introduction of Al
 
 ![alt text](./pic/Selection_065.png)
 
+## Single source shortest path
+
+![alt text](./pic/Selection_069.png)
+
+### Dijkstra algorithm
+
+![alt text](./pic/Selection_070.png)
+
+![alt text](./pic/Selection_071.png)
+
+#### Heap data structure to increase the searching
+
+![alt text](./pic/Selection_072.png)
+
+![alt text](./pic/Selection_073.png)
+
