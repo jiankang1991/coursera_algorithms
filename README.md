@@ -159,3 +159,7 @@ A good exercise is the birthday problem with the solution in [Introduction of Al
 
 ![alt text](./pic/Selection_073.png)
 
+## Heap and its in median maintenance
+
+![alt text](./pic/Selection_074.png)
+
