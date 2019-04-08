@@ -163,3 +163,7 @@ A good exercise is the birthday problem with the solution in [Introduction of Al
 
 ![alt text](./pic/Selection_074.png)
 
+## Hash table and 2-sum problem
+
+![alt text](./pic/Selection_075.png)
+
