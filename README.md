@@ -167,3 +167,19 @@ A good exercise is the birthday problem with the solution in [Introduction of Al
 
 ![alt text](./pic/Selection_075.png)
 
+
+## Greedy method
+
+### Schedule problem
+
+![alt text](./pic/Selection_077.png)
+
+![alt text](./pic/Selection_076.png)
+
+
+### MST problem
+
+![alt text](./pic/Selection_078.png)
+
+![alt text](./pic/Selection_079.png)
+
