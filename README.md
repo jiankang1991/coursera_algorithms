@@ -183,3 +183,61 @@ A good exercise is the birthday problem with the solution in [Introduction of Al
 
 ![alt text](./pic/Selection_079.png)
 
+## Clustering and UnionFind data structure
+
+### Kruskal MST
+
+![alt text](./pic/Selection_081.png)
+
+### UnionFind data structure
+
+
+![alt text](./pic/Selection_081.png)
+
+### Greedy algorithm for clustering
+
+![alt text](./pic/Selection_082.png)
+
+![alt text](./pic/Selection_083.png)
+
+## Huffman coding and Dynamic Programming
+
+### Huffman coding
+![alt text](./pic/Selection_085.png)
+
+![alt text](./pic/Selection_086.png)
+
+### Max weighted independent set problem
+
+![alt text](./pic/Selection_087.png)
+
+![alt text](./pic/Selection_088.png)
+
+![alt text](./pic/Selection_089.png)
+
+![alt text](./pic/Selection_090.png)
+
+### Dynamic programming
+
+![alt text](./pic/Selection_091.png)
+
+### Knapsack 
+
+![alt text](./pic/Selection_092.png)
+
+![alt text](./pic/Selection_093.png)
+
+![alt text](./pic/Selection_094.png)
+
+![alt text](./pic/Selection_095.png)
+
+### Optimal binary search tree
+
+
+
+![alt text](./pic/Selection_096.png)
+
+![alt text](./pic/Selection_097.png)
+
+![alt text](./pic/Selection_098.png)
+
